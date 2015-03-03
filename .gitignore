@@ -1,0 +1,9 @@
+db.sqlite3
+*.py.*
+*.pyc
+*.old
+*.out
+*.log
+*.swp
+.DS_Store
+*.egg-info
